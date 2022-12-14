@@ -1,0 +1,9 @@
+.faceid
+application_data
+data
+training_checkpoints
+lfw*
+*.h5
+app/application_data
+app/__pycache__
+app/*.h5
